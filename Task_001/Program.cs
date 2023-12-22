@@ -46,7 +46,6 @@ void CheckNum(int M, int N)
         System.Console.WriteLine();
         EnterNum();
     }
-
 }
-
+EnterNum();
 
